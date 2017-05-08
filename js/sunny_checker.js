@@ -51,10 +51,10 @@ function checkIt() {
     message = "Dennis: You were once attractive and cool, but as you age you grow more narcissistic and selfish. You get what you want because of the implication";
   }
   else if (max == dee) {
-    message = "Dee: Your awkward yet far too confident in your appearence and social ability. You are hated by a lot of your close friends and will probably never find love";
+    message = "Dee: You are awkward yet far too confident in your appearence and social ability. You are hated by a lot of your close friends and will probably never find love";
   }
   else if (max == mac) {
-    message = "Mac: Your obsessed with sports and working out yet you have never done either";
+    message = "Mac: You are obsessed with sports and working out yet you have never done either";
   }
   else if (max == charlie) {
     message = "Charlie: You are in love with someone that hates you yet you keep pursuing. Your often called weird and your hobbies may include cleaning, rat control, eating cheese, and playing night crawlers";

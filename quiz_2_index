@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- page title -->
-  <title>What Its Always Sunny character are you?</title>
+  <title>Which South Park character are you></title>
 
   <!-- styles -->
   <link rel="stylesheet" href="css/odin-0.10.4.css">
@@ -419,10 +419,8 @@
 
           <div class="row">
             <div class="quiz-link">
-              <a href="quiz_2_index.html">
-              <img src="img/sp.png">
-              <h4>Which South Park character are you?</h4>
-            </a>
+              <img src="https://dummyimage.com/400x250/aaa/fff">
+              <h4>Quiz title goes here</h4>
             </div>
 
             <div class="quiz-link">
@@ -490,7 +488,7 @@
   <!-- include any javascript below this line -->
   <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
   <script src="js/odin-0.7.1.js"></script>
-  <script src="js/sunny_checker.js"></script>
+  <script src="js/quiz_2_checker.js"></script>
 
 </body>
 </html>
