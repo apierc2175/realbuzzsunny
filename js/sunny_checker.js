@@ -57,15 +57,24 @@ function checkIt() {
     message = "Mac: You are obsessed with sports and working out yet you have never done either";
   }
   else if (max == charlie) {
-    message = "Charlie: You are in love with someone that hates you yet you keep pursuing. Your often called weird and your hobbies may include cleaning, rat control, eating cheese, and playing night crawlers";
+    title = "Which it's always sunny character are you?";
+    message = "You are in love with someone that hates you yet you keep pursuing. Your often called weird and your hobbies may include cleaning, rat control, eating cheese, and playing night crawlers";
+    heading = "You got: " + charlie + ", Charlie Kelly";
+
   }
+
   else if (max == frank) {
     message = "Frank: You once lived the wealthy millionaire life, however you gave that up in order to be happy. A perfect living situation for you is living with your bestfriend in a small apartment. You enjoy living a wild lifestyle and do not care what others think, you also think Pondy is the coolest";
   }
-
   // Display result
   document.getElementById('result').innerHTML = counts;
   // document.getElementById('result').innerHTML = message;
-  document.getElementById('result').innerHTML = message;
+  document.getElementById('result-title').innerHTML = title;
+  document.getElementById('result-text').innerHTML = message;
+  document.getElementById('result-image').innerHTML = img;
+  document.getElementById('result-heading').innerHTML = heading;
+
+
+
 
 }
