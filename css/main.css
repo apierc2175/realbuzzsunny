@@ -34,6 +34,24 @@ aside {
 
 }
 
+div.col-sm-4 {
+  text-align: center;
+}
+
+div.col-sm-6 {
+  text-align: center;
+}
+
+div.col-xs-6 {
+  text-align: center;
+}
+
+div.col-xs-8 {
+  text-align: center;
+  display: block;
+ margin: 0 auto;
+}
+
 
 /**** content styles ***/
 
